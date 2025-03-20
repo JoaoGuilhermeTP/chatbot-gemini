@@ -69,7 +69,7 @@ A IA é um robô que entende tudo, até memes! Aprendizado de máquina? Como tre
 
 Assista ao vídeo explicativo sobre como utilizar o chatbot:
 
-[![Vídeo Explicativo](https://img.youtube.com/vi/SEU_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=Y3tdJENouyQ)
+[![Vídeo Explicativo](https://img.youtube.com/vi/SEU_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=LvRLut5oA34)
 
 Substitua `SEU_VIDEO_ID` pelo ID do vídeo correspondente no YouTube.
 
